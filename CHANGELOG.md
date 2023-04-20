@@ -1,3 +1,10 @@
+# [0.1.0](https://github.com/beecode-rs/msh-error/compare/v0.0.0...v0.1.0) (2023-04-20)
+
+
+### Features
+
+* rename project, update infrastructure ([d7b2216](https://github.com/beecode-rs/msh-error/commit/d7b2216cf071cfc56c6474798bcaa529bca2f5a0))
+
 > # Renamed `msh-node-error` > `msh-error`
 > Reset version to 0.1.0
 
