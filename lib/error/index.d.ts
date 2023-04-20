@@ -1,0 +1,51 @@
+import { ErrorBaseModel } from '../error/base-model';
+import { HttpResponseCodeMapper } from '../http-response-code';
+export declare const errorHOF: (httpCode: HttpResponseCodeMapper) => (() => ErrorBaseModel);
+export declare const errorFactory: () => {
+    client: {
+        badRequest: () => ErrorBaseModel;
+        unauthorized: () => ErrorBaseModel;
+        paymentRequired: () => ErrorBaseModel;
+        forbidden: () => ErrorBaseModel;
+        notFound: () => ErrorBaseModel;
+        methodNotAllowed: () => ErrorBaseModel;
+        notAcceptable: () => ErrorBaseModel;
+        proxyAuthenticationRequired: () => ErrorBaseModel;
+        requestTimeout: () => ErrorBaseModel;
+        conflict: () => ErrorBaseModel;
+        gone: () => ErrorBaseModel;
+        lengthRequired: () => ErrorBaseModel;
+        preconditionFailed: () => ErrorBaseModel;
+        payloadTooLarge: () => ErrorBaseModel;
+        requestUriTooLong: () => ErrorBaseModel;
+        unsupportedMediaType: () => ErrorBaseModel;
+        requestedRangeNotSatisfiable: () => ErrorBaseModel;
+        expectationFailed: () => ErrorBaseModel;
+        misdirectedRequest: () => ErrorBaseModel;
+        unprocessableEntity: () => ErrorBaseModel;
+        locked: () => ErrorBaseModel;
+        failedDependency: () => ErrorBaseModel;
+        upgradeRequired: () => ErrorBaseModel;
+        preconditionRequired: () => ErrorBaseModel;
+        tooManyRequests: () => ErrorBaseModel;
+        requestHeaderFieldsTooLarge: () => ErrorBaseModel;
+        connectionClosedWithoutResponse: () => ErrorBaseModel;
+        unavailableForLegalReasons: () => ErrorBaseModel;
+        clientClosedRequest: () => ErrorBaseModel;
+    };
+    server: {
+        internalServerError: () => ErrorBaseModel;
+        notImplemented: () => ErrorBaseModel;
+        badGateway: () => ErrorBaseModel;
+        serviceUnavailable: () => ErrorBaseModel;
+        gatewayTimeout: () => ErrorBaseModel;
+        httpVersionNotSupported: () => ErrorBaseModel;
+        variantAlsoNegotiates: () => ErrorBaseModel;
+        insufficientStorage: () => ErrorBaseModel;
+        loopDetected: () => ErrorBaseModel;
+        notExtended: () => ErrorBaseModel;
+        networkAuthenticationRequired: () => ErrorBaseModel;
+        networkConnectTimeoutError: () => ErrorBaseModel;
+    };
+};
+//# sourceMappingURL=index.d.ts.map
