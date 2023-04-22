@@ -1,5 +1,7 @@
 # [0.1.0](https://github.com/beecode-rs/msh-error/compare/v0.0.0...v0.1.0) (2023-04-20)
 
+> # Renamed `msh-node-error` > `msh-error`
+> Reset version to 0.1.0
 
 ### Features
 
