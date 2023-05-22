@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/beecode-rs/msh-error/compare/v0.1.0...v0.1.1) (2023-05-22)
+
+
+### Bug Fixes
+
+* update project/packages ([f7d6c30](https://github.com/beecode-rs/msh-error/commit/f7d6c30316e3c4bc75b6a785c2b19eecccb74842))
+
 # [0.1.0](https://github.com/beecode-rs/msh-error/compare/v0.0.0...v0.1.0) (2023-04-20)
 
 > # Renamed `msh-node-error` > `msh-error`
