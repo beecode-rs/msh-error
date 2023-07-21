@@ -1,7 +1,7 @@
-import { HttpResponseCodeMapper } from 'src/http-response-code'
-import { stringUtil } from 'src/util/string-util'
+import { HttpResponseCodeMapper } from '#/http-response-code.js'
+import { stringUtil } from '#/util/string-util.js'
 
-export type ErrorPayload = Record<string, any>
+export type ErrorPayload = Record<string, never>
 
 export class ErrorBaseModel<T extends ErrorPayload = never> extends Error {
 	httpCode: number
