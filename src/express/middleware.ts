@@ -1,6 +1,5 @@
 import { NextFunction, Request, Response } from 'express'
-
-import { ErrorBaseModel } from '#/error/base-model.js'
+import { ErrorBaseModel } from 'src/error/base-model'
 
 export const expressMiddleware = (err: Error | ErrorBaseModel, _req: Request, res: Response, _next: NextFunction): unknown => {
 	// eslint-disable-next-line @typescript-eslint/no-explicit-any
