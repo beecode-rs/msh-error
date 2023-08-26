@@ -48,7 +48,7 @@ export const testService = {
 ### With custom message
 
 ```ts
-import { errorFactory } from '@beecode/msh-error/error/factory.js.js';
+import { errorFactory } from '@beecode/msh-error/dist/error/factory';
 
 export const testService = {
 	someFunction: () => {
@@ -71,7 +71,7 @@ export const testService = {
 ### Pass some payload
 
 ```ts
-import { errorFactory } from '@beecode/msh-error/error/factory.js.js';
+import { errorFactory } from '@beecode/msh-error/dist/error/factory';
 
 export const testService = {
 	someFunction: () => {

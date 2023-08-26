@@ -1,9 +1,10 @@
 import { HttpResponseCodeMapper } from 'src/http-response-code'
 import { stringUtil } from 'src/util/string-util'
 
-export type ErrorPayload = Record<string, never>
+export type ErrorPayload = Record<string, unknown>
 
-export class ErrorBaseModel<T extends ErrorPayload = never> extends Error {
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export class ErrorBaseModel<T extends ErrorPayload = any> extends Error {
 	httpCode: number
 	payload?: T
 
