@@ -10,7 +10,7 @@ export default {
 	preset: 'ts-jest/presets/default-esm',
 	moduleNameMapper: {
 		'^#$': '<rootDir>/src',
-		'^#/(.*)$': ['<rootDir>/src/$1'],
+		'^#/(.*)$': '<rootDir>/src/$1',
 	},
 	// roots: ['<rootDir>'],
 	clearMocks: true,
