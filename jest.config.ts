@@ -1,21 +1,21 @@
-export default {
-	// collectCoverage: false,
-	// collectCoverageFrom: ['src/**/*.ts', '!src/index.ts', '!src/**/*.{contract,d}.ts'],
-	// coveragePathIgnorePatterns: ['/node_modules/', '/__tests__/', '/__mocks__/', '/__snapshots__/'],
+import type { JestConfigWithTsJest } from 'ts-jest'
+
+const jestConfig: JestConfigWithTsJest = {
+	clearMocks: true,
+	extensionsToTreatAsEsm: ['.ts'],
 	maxConcurrency: 1,
 
 	moduleFileExtensions: ['js', 'ts'],
-	setupFilesAfterEnv: ['jest-extended/all'],
-	transform: {},
-	preset: 'ts-jest/presets/default-esm',
 	moduleNameMapper: {
 		'^#$': '<rootDir>/src',
 		'^#/(.*)$': '<rootDir>/src/$1',
 	},
-	// roots: ['<rootDir>'],
-	clearMocks: true,
-	// preset: 'ts-jest',
+	preset: 'ts-jest/presets/default-esm',
+	setupFilesAfterEnv: ['jest-extended/all', '<rootDir>/src/index-jest-setup.ts'],
 	testEnvironment: 'node',
-	extensionsToTreatAsEsm: ['.ts'],
+	testMatch: ['<rootDir>/src/**/*.(spec|test).[jt]s?(x)'],
 	testPathIgnorePatterns: ['/node_modules/'],
+	transform: {},
 }
+
+export default jestConfig
