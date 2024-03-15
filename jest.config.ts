@@ -7,8 +7,8 @@ const jestConfig: JestConfigWithTsJest = {
 
 	moduleFileExtensions: ['js', 'ts'],
 	moduleNameMapper: {
-		'^#$': '<rootDir>/src',
-		'^#/(.*)$': '<rootDir>/src/$1',
+		'^#src$': '<rootDir>/src',
+		'^#src/(.*)$': '<rootDir>/src/$1',
 	},
 	preset: 'ts-jest/presets/default-esm',
 	setupFilesAfterEnv: ['jest-extended/all', '<rootDir>/src/index-jest-setup.ts'],
