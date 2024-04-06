@@ -1,0 +1,11 @@
+import { HttpResponseCodeMapper } from '#src/http-response-code';
+export const stringUtil = {
+    codeNameFromEnum: (codeEnum) => {
+        const nameWithUnderscore = HttpResponseCodeMapper[codeEnum];
+        if (!nameWithUnderscore) {
+            return 'Unknown error code name';
+        }
+        return nameWithUnderscore.split('__').join('-').split('_').join(' ');
+    },
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3RyaW5nLXV0aWwuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvdXRpbC9zdHJpbmctdXRpbC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLEVBQUUsc0JBQXNCLEVBQUUsTUFBTSx5QkFBeUIsQ0FBQTtBQUVoRSxNQUFNLENBQUMsTUFBTSxVQUFVLEdBQUc7SUFDekIsZ0JBQWdCLEVBQUUsQ0FBQyxRQUFnQyxFQUFVLEVBQUU7UUFDOUQsTUFBTSxrQkFBa0IsR0FBRyxzQkFBc0IsQ0FBQyxRQUFRLENBQUMsQ0FBQTtRQUMzRCxJQUFJLENBQUMsa0JBQWtCLEVBQUUsQ0FBQztZQUN6QixPQUFPLHlCQUF5QixDQUFBO1FBQ2pDLENBQUM7UUFFRCxPQUFPLGtCQUFrQixDQUFDLEtBQUssQ0FBQyxJQUFJLENBQUMsQ0FBQyxJQUFJLENBQUMsR0FBRyxDQUFDLENBQUMsS0FBSyxDQUFDLEdBQUcsQ0FBQyxDQUFDLElBQUksQ0FBQyxHQUFHLENBQUMsQ0FBQTtJQUNyRSxDQUFDO0NBQ0QsQ0FBQSIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IEh0dHBSZXNwb25zZUNvZGVNYXBwZXIgfSBmcm9tICcjc3JjL2h0dHAtcmVzcG9uc2UtY29kZSdcblxuZXhwb3J0IGNvbnN0IHN0cmluZ1V0aWwgPSB7XG5cdGNvZGVOYW1lRnJvbUVudW06IChjb2RlRW51bTogSHR0cFJlc3BvbnNlQ29kZU1hcHBlcik6IHN0cmluZyA9PiB7XG5cdFx0Y29uc3QgbmFtZVdpdGhVbmRlcnNjb3JlID0gSHR0cFJlc3BvbnNlQ29kZU1hcHBlcltjb2RlRW51bV1cblx0XHRpZiAoIW5hbWVXaXRoVW5kZXJzY29yZSkge1xuXHRcdFx0cmV0dXJuICdVbmtub3duIGVycm9yIGNvZGUgbmFtZSdcblx0XHR9XG5cblx0XHRyZXR1cm4gbmFtZVdpdGhVbmRlcnNjb3JlLnNwbGl0KCdfXycpLmpvaW4oJy0nKS5zcGxpdCgnXycpLmpvaW4oJyAnKVxuXHR9LFxufVxuIl19
