@@ -12,5 +12,5 @@
 - [express/middleware](modules/express_middleware.md)
 - [http-response-code](modules/http_response_code.md)
 - [index](modules/index.md)
-- [index.test](modules/index_test.md)
+- [types/global](modules/types_global.md)
 - [util/string-util](modules/util_string_util.md)

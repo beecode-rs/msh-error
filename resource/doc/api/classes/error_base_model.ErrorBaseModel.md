@@ -1,6 +1,6 @@
 [@beecode/msh-error](../README.md) / [error/base-model](../modules/error_base_model.md) / ErrorBaseModel
 
-# Class: ErrorBaseModel<T\>
+# Class: ErrorBaseModel\<T\>
 
 [error/base-model](../modules/error_base_model.md).ErrorBaseModel
 
@@ -8,7 +8,7 @@
 
 | Name | Type |
 | :------ | :------ |
-| `T` | extends [`ErrorPayload`](../modules/error_base_model.md#errorpayload) = `never` |
+| `T` | extends [`ErrorPayload`](../modules/error_base_model.md#errorpayload) = `any` |
 
 ## Hierarchy
 
@@ -41,13 +41,13 @@
 
 ### constructor
 
-• **new ErrorBaseModel**<`T`\>(`params`)
+• **new ErrorBaseModel**\<`T`\>(`params`): [`ErrorBaseModel`](error_base_model.ErrorBaseModel.md)\<`T`\>
 
 #### Type parameters
 
 | Name | Type |
 | :------ | :------ |
-| `T` | extends [`ErrorPayload`](../modules/error_base_model.md#errorpayload) = `never` |
+| `T` | extends [`ErrorPayload`](../modules/error_base_model.md#errorpayload) = `any` |
 
 #### Parameters
 
@@ -59,13 +59,17 @@
 | `params.name?` | `string` |
 | `params.payload?` | `T` |
 
+#### Returns
+
+[`ErrorBaseModel`](error_base_model.ErrorBaseModel.md)\<`T`\>
+
 #### Overrides
 
 Error.constructor
 
 #### Defined in
 
-[packages/error/src/error/base-model.ts:10](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/error/base-model.ts#L10)
+[packages/error/src/error/base-model.ts:11](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/error/base-model.ts#L11)
 
 ## Properties
 
@@ -89,7 +93,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/error/base-model.ts:7](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/error/base-model.ts#L7)
+[packages/error/src/error/base-model.ts:8](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/error/base-model.ts#L8)
 
 ___
 
@@ -103,7 +107,7 @@ Error.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1068
+node_modules/typescript/lib/lib.es5.d.ts:1077
 
 ___
 
@@ -117,7 +121,7 @@ Error.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1067
+node_modules/typescript/lib/lib.es5.d.ts:1076
 
 ___
 
@@ -127,7 +131,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/error/base-model.ts:8](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/error/base-model.ts#L8)
+[packages/error/src/error/base-model.ts:9](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/error/base-model.ts#L9)
 
 ___
 
@@ -141,7 +145,7 @@ Error.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1069
+node_modules/typescript/lib/lib.es5.d.ts:1078
 
 ___
 
@@ -149,15 +153,15 @@ ___
 
 ▪ `Static` `Optional` **prepareStackTrace**: (`err`: `Error`, `stackTraces`: `CallSite`[]) => `any`
 
-#### Type declaration
-
-▸ (`err`, `stackTraces`): `any`
-
 Optional override for formatting stack traces
 
 **`See`**
 
 https://v8.dev/docs/stack-trace-api#customizing-stack-traces
+
+#### Type declaration
+
+▸ (`err`, `stackTraces`): `any`
 
 ##### Parameters
 
@@ -176,7 +180,7 @@ Error.prepareStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:11
+node_modules/@types/node/globals.d.ts:28
 
 ___
 
@@ -190,13 +194,13 @@ Error.stackTraceLimit
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:13
+node_modules/@types/node/globals.d.ts:30
 
 ## Methods
 
 ### captureStackTrace
 
-▸ `Static` **captureStackTrace**(`targetObject`, `constructorOpt?`): `void`
+▸ **captureStackTrace**(`targetObject`, `constructorOpt?`): `void`
 
 Create .stack property on a target object
 
@@ -217,4 +221,4 @@ Error.captureStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:4
+node_modules/@types/node/globals.d.ts:21

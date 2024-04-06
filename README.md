@@ -12,7 +12,10 @@ This project is intended to be used in typescript project.
 <!-- toc -->
 
 - [Install](#install)
+- [Documentation](#documentation)
 - [Usage](#usage)
+  * [With custom message](#with-custom-message)
+  * [Pass some payload](#pass-some-payload)
 
 <!-- tocstop -->
 

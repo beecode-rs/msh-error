@@ -12,7 +12,7 @@
 
 ### errorHOF
 
-▸ **errorHOF**(`httpCode`): <T\>(`message?`: `string`, `payload?`: `T`) => [`ErrorBaseModel`](../classes/error_base_model.ErrorBaseModel.md)<T\>(`params?`: { `message?`: `string` ; `name?`: `string` ; `payload?`: `T`  }) => [`ErrorBaseModel`](../classes/error_base_model.ErrorBaseModel.md)
+▸ **errorHOF**(`httpCode`): \<T\>(`message?`: `string`, `payload?`: `T`) => [`ErrorBaseModel`](../classes/error_base_model.ErrorBaseModel.md)\<T\>(`params?`: \{ `message?`: `string` ; `name?`: `string` ; `payload?`: `T`  }) => [`ErrorBaseModel`](../classes/error_base_model.ErrorBaseModel.md)
 
 #### Parameters
 
@@ -24,7 +24,7 @@
 
 `fn`
 
-▸ <`T`\>(`message?`, `payload?`): [`ErrorBaseModel`](../classes/error_base_model.ErrorBaseModel.md)
+▸ \<`T`\>(`message?`, `payload?`): [`ErrorBaseModel`](../classes/error_base_model.ErrorBaseModel.md)
 
 ##### Type parameters
 
@@ -43,7 +43,7 @@
 
 [`ErrorBaseModel`](../classes/error_base_model.ErrorBaseModel.md)
 
-▸ <`T`\>(`params?`): [`ErrorBaseModel`](../classes/error_base_model.ErrorBaseModel.md)
+▸ \<`T`\>(`params?`): [`ErrorBaseModel`](../classes/error_base_model.ErrorBaseModel.md)
 
 ##### Type parameters
 
@@ -66,4 +66,4 @@
 
 #### Defined in
 
-[packages/error/src/error/hof.ts:5](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/error/hof.ts#L5)
+[packages/error/src/error/hof.ts:5](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/error/hof.ts#L5)

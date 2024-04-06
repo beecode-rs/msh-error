@@ -79,7 +79,7 @@
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:14](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L14)
+[packages/error/src/http-response-code.ts:14](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L14)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:20](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L20)
+[packages/error/src/http-response-code.ts:20](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L20)
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:70](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L70)
+[packages/error/src/http-response-code.ts:70](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L70)
 
 ___
 
@@ -113,7 +113,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:36](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L36)
+[packages/error/src/http-response-code.ts:36](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L36)
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:64](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L64)
+[packages/error/src/http-response-code.ts:64](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L64)
 
 ___
 
@@ -133,7 +133,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:45](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L45)
+[packages/error/src/http-response-code.ts:45](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L45)
 
 ___
 
@@ -143,7 +143,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:62](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L62)
+[packages/error/src/http-response-code.ts:62](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L62)
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:6](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L6)
+[packages/error/src/http-response-code.ts:6](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L6)
 
 ___
 
@@ -167,7 +167,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:13](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L13)
+[packages/error/src/http-response-code.ts:13](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L13)
 
 ___
 
@@ -177,7 +177,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:53](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L53)
+[packages/error/src/http-response-code.ts:53](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L53)
 
 ___
 
@@ -187,7 +187,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:57](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L57)
+[packages/error/src/http-response-code.ts:57](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L57)
 
 ___
 
@@ -197,7 +197,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:39](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L39)
+[packages/error/src/http-response-code.ts:39](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L39)
 
 ___
 
@@ -207,7 +207,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:27](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L27)
+[packages/error/src/http-response-code.ts:27](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L27)
 
 ___
 
@@ -217,7 +217,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:72](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L72)
+[packages/error/src/http-response-code.ts:72](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L72)
 
 ___
 
@@ -227,7 +227,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:46](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L46)
+[packages/error/src/http-response-code.ts:46](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L46)
 
 ___
 
@@ -237,7 +237,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:73](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L73)
+[packages/error/src/http-response-code.ts:73](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L73)
 
 ___
 
@@ -247,7 +247,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:21](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L21)
+[packages/error/src/http-response-code.ts:21](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L21)
 
 ___
 
@@ -257,7 +257,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:75](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L75)
+[packages/error/src/http-response-code.ts:75](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L75)
 
 ___
 
@@ -271,7 +271,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:68](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L68)
+[packages/error/src/http-response-code.ts:68](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L68)
 
 ___
 
@@ -281,7 +281,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:47](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L47)
+[packages/error/src/http-response-code.ts:47](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L47)
 
 ___
 
@@ -291,7 +291,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:56](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L56)
+[packages/error/src/http-response-code.ts:56](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L56)
 
 ___
 
@@ -301,7 +301,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:76](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L76)
+[packages/error/src/http-response-code.ts:76](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L76)
 
 ___
 
@@ -311,7 +311,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:41](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L41)
+[packages/error/src/http-response-code.ts:41](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L41)
 
 ___
 
@@ -321,7 +321,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:54](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L54)
+[packages/error/src/http-response-code.ts:54](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L54)
 
 ___
 
@@ -331,7 +331,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:26](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L26)
+[packages/error/src/http-response-code.ts:26](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L26)
 
 ___
 
@@ -345,7 +345,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:25](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L25)
+[packages/error/src/http-response-code.ts:25](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L25)
 
 ___
 
@@ -355,7 +355,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:19](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L19)
+[packages/error/src/http-response-code.ts:19](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L19)
 
 ___
 
@@ -365,7 +365,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:78](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L78)
+[packages/error/src/http-response-code.ts:78](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L78)
 
 ___
 
@@ -375,7 +375,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:79](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L79)
+[packages/error/src/http-response-code.ts:79](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L79)
 
 ___
 
@@ -385,7 +385,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:15](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L15)
+[packages/error/src/http-response-code.ts:15](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L15)
 
 ___
 
@@ -395,7 +395,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:42](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L42)
+[packages/error/src/http-response-code.ts:42](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L42)
 
 ___
 
@@ -405,7 +405,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:77](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L77)
+[packages/error/src/http-response-code.ts:77](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L77)
 
 ___
 
@@ -415,7 +415,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:40](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L40)
+[packages/error/src/http-response-code.ts:40](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L40)
 
 ___
 
@@ -425,7 +425,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:69](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L69)
+[packages/error/src/http-response-code.ts:69](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L69)
 
 ___
 
@@ -435,7 +435,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:29](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L29)
+[packages/error/src/http-response-code.ts:29](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L29)
 
 ___
 
@@ -445,7 +445,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:16](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L16)
+[packages/error/src/http-response-code.ts:16](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L16)
 
 ___
 
@@ -459,7 +459,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:12](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L12)
+[packages/error/src/http-response-code.ts:12](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L12)
 
 ___
 
@@ -469,7 +469,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:18](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L18)
+[packages/error/src/http-response-code.ts:18](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L18)
 
 ___
 
@@ -479,7 +479,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:49](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L49)
+[packages/error/src/http-response-code.ts:49](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L49)
 
 ___
 
@@ -489,7 +489,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:38](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L38)
+[packages/error/src/http-response-code.ts:38](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L38)
 
 ___
 
@@ -499,7 +499,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:32](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L32)
+[packages/error/src/http-response-code.ts:32](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L32)
 
 ___
 
@@ -509,7 +509,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:48](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L48)
+[packages/error/src/http-response-code.ts:48](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L48)
 
 ___
 
@@ -519,7 +519,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:59](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L59)
+[packages/error/src/http-response-code.ts:59](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L59)
 
 ___
 
@@ -529,7 +529,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:8](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L8)
+[packages/error/src/http-response-code.ts:8](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L8)
 
 ___
 
@@ -539,7 +539,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:43](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L43)
+[packages/error/src/http-response-code.ts:43](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L43)
 
 ___
 
@@ -549,7 +549,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:52](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L52)
+[packages/error/src/http-response-code.ts:52](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L52)
 
 ___
 
@@ -559,7 +559,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:61](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L61)
+[packages/error/src/http-response-code.ts:61](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L61)
 
 ___
 
@@ -569,7 +569,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:44](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L44)
+[packages/error/src/http-response-code.ts:44](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L44)
 
 ___
 
@@ -579,7 +579,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:50](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L50)
+[packages/error/src/http-response-code.ts:50](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L50)
 
 ___
 
@@ -589,7 +589,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:17](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L17)
+[packages/error/src/http-response-code.ts:17](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L17)
 
 ___
 
@@ -599,7 +599,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:28](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L28)
+[packages/error/src/http-response-code.ts:28](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L28)
 
 ___
 
@@ -609,7 +609,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:71](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L71)
+[packages/error/src/http-response-code.ts:71](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L71)
 
 ___
 
@@ -619,7 +619,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:7](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L7)
+[packages/error/src/http-response-code.ts:7](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L7)
 
 ___
 
@@ -629,7 +629,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:31](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L31)
+[packages/error/src/http-response-code.ts:31](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L31)
 
 ___
 
@@ -639,7 +639,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:60](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L60)
+[packages/error/src/http-response-code.ts:60](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L60)
 
 ___
 
@@ -649,7 +649,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:37](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L37)
+[packages/error/src/http-response-code.ts:37](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L37)
 
 ___
 
@@ -659,7 +659,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:63](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L63)
+[packages/error/src/http-response-code.ts:63](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L63)
 
 ___
 
@@ -669,7 +669,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:55](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L55)
+[packages/error/src/http-response-code.ts:55](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L55)
 
 ___
 
@@ -679,7 +679,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:51](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L51)
+[packages/error/src/http-response-code.ts:51](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L51)
 
 ___
 
@@ -689,7 +689,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:58](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L58)
+[packages/error/src/http-response-code.ts:58](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L58)
 
 ___
 
@@ -699,7 +699,7 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:30](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L30)
+[packages/error/src/http-response-code.ts:30](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L30)
 
 ___
 
@@ -709,4 +709,4 @@ ___
 
 #### Defined in
 
-[packages/error/src/http-response-code.ts:74](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/http-response-code.ts#L74)
+[packages/error/src/http-response-code.ts:74](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/http-response-code.ts#L74)

@@ -22,4 +22,4 @@
 
 #### Defined in
 
-[packages/error/src/util/string-util.ts:3](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/util/string-util.ts#L3)
+[packages/error/src/util/string-util.ts:3](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/util/string-util.ts#L3)

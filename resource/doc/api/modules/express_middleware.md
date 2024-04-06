@@ -18,9 +18,9 @@
 
 | Name | Type |
 | :------ | :------ |
-| `err` | `Error` \| [`ErrorBaseModel`](../classes/error_base_model.ErrorBaseModel.md)<`never`\> |
-| `_req` | `Request`<`ParamsDictionary`, `any`, `any`, `ParsedQs`, `Record`<`string`, `any`\>\> |
-| `res` | `Response`<`any`, `Record`<`string`, `any`\>\> |
+| `err` | `Error` \| [`ErrorBaseModel`](../classes/error_base_model.ErrorBaseModel.md)\<`any`\> |
+| `_req` | `Request`\<`ParamsDictionary`, `any`, `any`, `ParsedQs`, `Record`\<`string`, `any`\>\> |
+| `res` | `Response`\<`any`, `Record`\<`string`, `any`\>\> |
 | `_next` | `NextFunction` |
 
 #### Returns
@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[packages/error/src/express/middleware.ts:5](https://github.com/beecode-rs/msh-error/blob/e92b3a2/src/express/middleware.ts#L5)
+[packages/error/src/express/middleware.ts:5](https://github.com/beecode-rs/msh-error/blob/744dc1e/src/express/middleware.ts#L5)
