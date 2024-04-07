@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/beecode-rs/msh-error/compare/v1.0.0...v1.0.1) (2024-04-07)
+
+
+### Bug Fixes
+
+* esmodule build output alias path to relative ([c1fa13c](https://github.com/beecode-rs/msh-error/commit/c1fa13cf395775326d439a3afaf394c0657a1835))
+
 # [1.0.0](https://github.com/beecode-rs/msh-error/compare/v0.1.1...v1.0.0) (2024-04-06)
 
 
