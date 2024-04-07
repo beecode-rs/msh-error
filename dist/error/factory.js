@@ -1,5 +1,5 @@
-import { errorHOF } from '#src/error/hof';
-import { HttpResponseCodeMapper } from '#src/http-response-code';
+import { errorHOF } from '../error/hof.js';
+import { HttpResponseCodeMapper } from '../http-response-code.js';
 /* eslint-disable sort-keys-fix/sort-keys-fix */
 // eslint-disable-next-line @typescript-eslint/explicit-function-return-type
 export const errorFactory = () => ({

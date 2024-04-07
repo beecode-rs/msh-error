@@ -1,4 +1,4 @@
-import { stringUtil } from '#src/util/string-util';
+import { stringUtil } from '../util/string-util.js';
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export class ErrorBaseModel extends Error {
     httpCode;

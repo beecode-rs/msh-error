@@ -1,3 +1,3 @@
-export { errorHOF } from '#src/error/hof';
-export { errorFactory } from '#src/error/factory';
+export { errorHOF } from './error/hof.js';
+export { errorFactory } from './error/factory.js';
 //# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi9zcmMvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxFQUFFLFFBQVEsRUFBRSxNQUFNLGdCQUFnQixDQUFBO0FBRXpDLE9BQU8sRUFBRSxZQUFZLEVBQUUsTUFBTSxvQkFBb0IsQ0FBQSIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCB7IGVycm9ySE9GIH0gZnJvbSAnI3NyYy9lcnJvci9ob2YnXG5cbmV4cG9ydCB7IGVycm9yRmFjdG9yeSB9IGZyb20gJyNzcmMvZXJyb3IvZmFjdG9yeSdcbiJdfQ==
