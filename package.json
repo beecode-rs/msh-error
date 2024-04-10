@@ -127,7 +127,7 @@
 		}
 	},
 	"dependencies": {
-		"express": "4.19.1"
+		"express": "4.19.2"
 	},
 	"devDependencies": {
 		"@babel/cli": "7.24.1",
