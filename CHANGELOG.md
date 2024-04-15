@@ -1,3 +1,11 @@
+## [1.0.3](https://github.com/beecode-rs/msh-error/compare/v1.0.2...v1.0.3) (2024-04-15)
+
+
+### Bug Fixes
+
+* bump semantic-release from 23.0.7 to 23.0.8 ([e4d5404](https://github.com/beecode-rs/msh-error/commit/e4d540470e9ef0703807ac2ed4f20e8ecb7744fa))
+* update package.json ([abbc575](https://github.com/beecode-rs/msh-error/commit/abbc5757008e86e539f5d6c8881b830187feec4b))
+
 ## [1.0.2](https://github.com/beecode-rs/msh-error/compare/v1.0.1...v1.0.2) (2024-04-10)
 
 
