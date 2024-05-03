@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/beecode-rs/msh-error/compare/v1.0.3...v1.0.4) (2024-05-03)
+
+
+### Bug Fixes
+
+* update package.json, esmodule remove alias, use vitest instead of jest ([#16](https://github.com/beecode-rs/msh-error/issues/16)) ([900048f](https://github.com/beecode-rs/msh-error/commit/900048f6689a7f521ce2094eec08cf80ec77f37c))
+
 ## [1.0.3](https://github.com/beecode-rs/msh-error/compare/v1.0.2...v1.0.3) (2024-04-15)
 
 
