@@ -1,4 +1,4 @@
-import { ErrorBaseModel } from '../error/base-model.js';
+import { ErrorBaseModel } from '#src/error/base-model';
 // eslint-disable-next-line @typescript-eslint/explicit-function-return-type
 export const errorHOF = (httpCode) => {
     function closure(messageOrParams, payload) {
