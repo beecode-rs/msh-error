@@ -1,5 +1,5 @@
-import { ErrorBaseModel, ErrorPayload } from '../error/base-model.js';
-import { HttpResponseCodeMapper } from '../http-response-code.js';
+import { ErrorBaseModel, ErrorPayload } from '#src/error/base-model';
+import { HttpResponseCodeMapper } from '#src/http-response-code';
 export declare const errorHOF: (httpCode: HttpResponseCodeMapper) => {
     <T extends ErrorPayload = never>(message?: string, payload?: T): ErrorBaseModel;
     <T_1 extends ErrorPayload = never>(params?: {

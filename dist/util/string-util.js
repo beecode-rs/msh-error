@@ -1,4 +1,4 @@
-import { HttpResponseCodeMapper } from '../http-response-code.js';
+import { HttpResponseCodeMapper } from '#src/http-response-code';
 export const stringUtil = {
     codeNameFromEnum: (codeEnum) => {
         const nameWithUnderscore = HttpResponseCodeMapper[codeEnum];
