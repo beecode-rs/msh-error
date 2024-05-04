@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/beecode-rs/msh-error/compare/v1.0.4...v1.0.5) (2024-05-04)
+
+
+### Bug Fixes
+
+* update package.json, use shared config for eslint and prettier ([eb07d94](https://github.com/beecode-rs/msh-error/commit/eb07d94bd93873cd365f58eb182f2a384d13fdc0))
+
 ## [1.0.4](https://github.com/beecode-rs/msh-error/compare/v1.0.3...v1.0.4) (2024-05-03)
 
 
