@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/beecode-rs/msh-error/compare/v1.0.5...v1.0.6) (2024-05-08)
+
+
+### Bug Fixes
+
+* add shared semantic release config ([eace463](https://github.com/beecode-rs/msh-error/commit/eace463222c08f5a95854295cd6996e854d78534))
+
 ## [1.0.5](https://github.com/beecode-rs/msh-error/compare/v1.0.4...v1.0.5) (2024-05-04)
 
 
