@@ -4,7 +4,7 @@ export declare class ErrorBaseModel<T extends ErrorPayload = any> extends Error 
     httpCode: number;
     payload?: T;
     constructor(params: {
-        httpCode: number | HttpResponseCodeMapper;
+        httpCode: HttpResponseCodeMapper | number;
         name?: string;
         message?: string;
         payload?: T;

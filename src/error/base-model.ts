@@ -8,7 +8,7 @@ export class ErrorBaseModel<T extends ErrorPayload = any> extends Error {
 	httpCode: number
 	payload?: T
 
-	constructor(params: { httpCode: number | HttpResponseCodeMapper; name?: string; message?: string; payload?: T }) {
+	constructor(params: { httpCode: HttpResponseCodeMapper | number; name?: string; message?: string; payload?: T }) {
 		const { httpCode, name = stringUtil.codeNameFromEnum(httpCode), message = `${httpCode} - ${name}`, payload } = params
 		super(message)
 		this.httpCode = httpCode
