@@ -1,4 +1,4 @@
-import { HttpResponseCodeMapper } from '#src/http-response-code';
+import { type HttpResponseCodeMapper } from '#src/http-response-code';
 export type ErrorPayload = Record<string, unknown>;
 export declare class ErrorBaseModel<T extends ErrorPayload = any> extends Error {
     httpCode: number;
