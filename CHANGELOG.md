@@ -1,3 +1,13 @@
+## [1.0.7](https://github.com/beecode-rs/msh-error/compare/v1.0.6...v1.0.7) (2025-03-20)
+
+
+### Bug Fixes
+
+* reorder httpCode type in constructor parameters ([57f2f25](https://github.com/beecode-rs/msh-error/commit/57f2f25ac613e032be84c24667c5080c263b5df7))
+* update error handling in express middleware and refine constructor parameters, lint issue ([e0e64fe](https://github.com/beecode-rs/msh-error/commit/e0e64feffa76e65e76bd2480143993c73fce7976))
+* update import path for shared semantic release config ([a36860a](https://github.com/beecode-rs/msh-error/commit/a36860a1336d5a35660095e2b244ddd637832a8b))
+* update Node.js version, add Prettier config, and refactor imports to use type annotations ([8ceba35](https://github.com/beecode-rs/msh-error/commit/8ceba351b18aca5c3c5a957384c04774e2c5f270))
+
 ## [1.0.6](https://github.com/beecode-rs/msh-error/compare/v1.0.5...v1.0.6) (2024-05-08)
 
 
