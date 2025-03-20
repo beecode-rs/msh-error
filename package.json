@@ -110,7 +110,7 @@
 		}
 	},
 	"dependencies": {
-		"@beecode/msh-config": "1.1.2",
+		"@beecode/msh-config": "1.1.3",
 		"express": "4.21.2"
 	},
 	"devDependencies": {
