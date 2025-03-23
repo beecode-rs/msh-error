@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/beecode-rs/msh-error/compare/v1.0.9...v1.0.10) (2025-03-23)
+
+
+### Bug Fixes
+
+* refactor ESLint configuration and update dependencies ([7f3b96c](https://github.com/beecode-rs/msh-error/commit/7f3b96ca438e89f635fca806b4334c7e84f78c20))
+
 ## [1.0.9](https://github.com/beecode-rs/msh-error/compare/v1.0.8...v1.0.9) (2025-03-20)
 
 
