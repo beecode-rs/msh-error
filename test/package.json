@@ -8,6 +8,6 @@
 		"test": "vitest"
 	},
 	"dependencies": {
-		"@beecode/msh-error": "0.1.1"
+		"@beecode/msh-error": "^0.1.1"
 	}
 }
