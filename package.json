@@ -112,7 +112,7 @@
 	},
 	"dependencies": {
 		"@beecode/msh-config": "^1.1.5",
-		"express": "^4.21.2"
+		"express": "^5.1.0"
 	},
 	"devDependencies": {
 		"@babel/cli": "^7.27.0",
