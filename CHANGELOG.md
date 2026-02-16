@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/beecode-rs/msh-error/compare/v1.0.11...v1.0.12) (2026-02-16)
+
+
+### Bug Fixes
+
+* clean up repo and update tooling ([38931f9](https://github.com/beecode-rs/msh-error/commit/38931f97f9573bbb1f17b128f8990358c8baea66))
+
 ## [1.0.11](https://github.com/beecode-rs/msh-error/compare/v1.0.10...v1.0.11) (2025-03-27)
 
 
