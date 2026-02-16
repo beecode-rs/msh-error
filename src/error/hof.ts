@@ -1,5 +1,5 @@
-import { ErrorBaseModel, type ErrorPayload } from '#src/error/base-model'
-import { type HttpResponseCodeMapper } from '#src/http-response-code'
+import { ErrorBaseModel, type ErrorPayload } from '#src/error/base-model.js'
+import { type HttpResponseCodeMapper } from '#src/http-response-code.js'
 
 // eslint-disable-next-line @typescript-eslint/explicit-function-return-type
 export const errorHOF = (httpCode: HttpResponseCodeMapper) => {

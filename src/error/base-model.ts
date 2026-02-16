@@ -1,5 +1,5 @@
-import { type HttpResponseCodeMapper } from '#src/http-response-code'
-import { stringUtil } from '#src/util/string-util'
+import { type HttpResponseCodeMapper } from '#src/http-response-code.js'
+import { stringUtil } from '#src/util/string-util.js'
 
 export type ErrorPayload = Record<string, unknown>
 

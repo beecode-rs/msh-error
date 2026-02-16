@@ -1,6 +1,6 @@
 import { type NextFunction, type Request, type Response } from 'express'
 
-import { ErrorBaseModel } from '#src/error/base-model'
+import { ErrorBaseModel } from '#src/error/base-model.js'
 
 export const expressMiddleware = (err: unknown, _req: Request, res: Response, _next: NextFunction): unknown => {
 	if (err instanceof ErrorBaseModel) {
