@@ -1,0 +1,26 @@
+subject: httpResponseCodeUtil
+module: ./http-response-code-util.js
+subjectType: function
+methods:
+  codeNameFromEnum:
+    terms:
+      # One — simplest meaningful case
+      - params: [200]
+        result: 'OK'
+      # Many — typical codes from each category
+      - params: [100]
+        result: 'CONTINUE'
+      - params: [404]
+        result: 'NOT FOUND'
+      - params: [500]
+        result: 'INTERNAL SERVER ERROR'
+      - params: [301]
+        result: 'MOVED PERMANENTLY'
+      # Edge — __ converts to dash (double underscore codes)
+      - params: [203]
+        result: 'NON-AUTHORITATIVE INFORMATION'
+      - params: [414]
+        result: 'REQUEST-URI TOO LONG'
+      # Oops — unknown code returns fallback
+      - params: [999]
+        result: 'Unknown error code name'

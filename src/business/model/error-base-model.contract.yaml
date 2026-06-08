@@ -1,0 +1,44 @@
+subject: ErrorBaseModel
+module: ./error-base-model.js
+subjectType: class
+constructor:
+  terms:
+    # One — simplest: httpCode only, defaults derive from enum name
+    - params:
+        - httpCode: 400
+      result:
+        httpCode: 400
+        name: 'BAD REQUEST'
+    # Many — all params provided
+    - params:
+        - httpCode: 404
+          name: 'NotFound'
+          message: 'Resource not found'
+          payload:
+            resourceId: 'abc-123'
+      result:
+        httpCode: 404
+        name: 'NotFound'
+        payload:
+          resourceId: 'abc-123'
+    # Edge — server error with only httpCode
+    - params:
+        - httpCode: 500
+      result:
+        httpCode: 500
+        name: 'INTERNAL SERVER ERROR'
+    # Edge — name override, message derives from it
+    - params:
+        - httpCode: 403
+          name: 'Forbidden'
+      result:
+        httpCode: 403
+        name: 'Forbidden'
+    # Zero — payload is empty object
+    - params:
+        - httpCode: 401
+          payload: {}
+      result:
+        httpCode: 401
+        name: 'UNAUTHORIZED'
+        payload: {}

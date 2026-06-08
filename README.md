@@ -16,6 +16,7 @@ This project is intended to be used in typescript project.
 - [Usage](#usage)
   * [With custom message](#with-custom-message)
   * [Pass some payload](#pass-some-payload)
+- [Migration](#migration)
 
 <!-- tocstop -->
 
@@ -51,7 +52,7 @@ export const testService = {
 ### With custom message
 
 ```ts
-import { errorFactory } from '@beecode/msh-error/dist/error/factory';
+import { errorFactory } from '@beecode/msh-error/dist/business/service/error-factory';
 
 export const testService = {
 	someFunction: () => {
@@ -74,7 +75,7 @@ export const testService = {
 ### Pass some payload
 
 ```ts
-import { errorFactory } from '@beecode/msh-error/dist/error/factory';
+import { errorFactory } from '@beecode/msh-error/dist/business/service/error-factory';
 
 export const testService = {
 	someFunction: () => {
@@ -94,3 +95,7 @@ export const testService = {
 }
 
 ```
+
+## Migration
+
+See [MIGRATION.md](./MIGRATION.md) for breaking changes and upgrade instructions.

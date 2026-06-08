@@ -1,3 +1,3 @@
-export { errorHOF } from '#src/error/hof.js'
+export { errorHOF } from '#src/business/service/error-hof.js'
 
-export { errorFactory } from '#src/error/factory.js'
+export { errorFactory } from '#src/business/service/error-factory.js'
