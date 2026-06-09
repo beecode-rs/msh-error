@@ -16,6 +16,10 @@ This project is intended to be used in typescript project.
 - [Usage](#usage)
   * [With custom message](#with-custom-message)
   * [Pass some payload](#pass-some-payload)
+  * [Error HOF (higher-order function)](#error-hof-higher-order-function)
+  * [Express middleware](#express-middleware)
+  * [ErrorBaseModel](#errorbasemodel)
+  * [HttpResponseCodeMapper](#httpresponsecodemapper)
 - [Migration](#migration)
 
 <!-- tocstop -->
@@ -52,13 +56,13 @@ export const testService = {
 ### With custom message
 
 ```ts
-import { errorFactory } from '@beecode/msh-error/dist/business/service/error-factory';
+import { errorFactory } from '@beecode/msh-error'
 
 export const testService = {
 	someFunction: () => {
 		// ...
 		if(isThereAnError) {
-			throw errorFactory().client.forbidden('Some custom message');
+			throw errorFactory().client.forbidden('Some custom message')
 			// FORBIDDEN: Some custom message
 			//     at Object.closure ...
 			// 	   at file:...
@@ -75,13 +79,13 @@ export const testService = {
 ### Pass some payload
 
 ```ts
-import { errorFactory } from '@beecode/msh-error/dist/business/service/error-factory';
+import { errorFactory } from '@beecode/msh-error'
 
 export const testService = {
 	someFunction: () => {
 		// ...
 		if(isThereAnError) {
-			throw errorFactory().client.forbidden({ message:"Some custom message", payload: { some:"custom", data:"here" } });
+			throw errorFactory().client.forbidden({ message:"Some custom message", payload: { some:"custom", data:"here" } })
 			// FORBIDDEN: Some custom message
 			//     at Object.closure ...
 			// 	   at file:...
@@ -94,6 +98,89 @@ export const testService = {
 	}
 }
 
+```
+
+### Error HOF (higher-order function)
+
+`errorHOF` is the lower-level building block behind `errorFactory`. It takes an `HttpResponseCodeMapper` enum value and returns a closure that creates `ErrorBaseModel` instances. Use it when you need an error for a status code not covered by the factory's predefined methods.
+
+```ts
+import { errorHOF, HttpResponseCodeMapper } from '@beecode/msh-error'
+
+const serviceUnavailable = errorHOF(HttpResponseCodeMapper.SERVICE_UNAVAILABLE)
+
+// With a custom message
+throw serviceUnavailable('Service is down for maintenance')
+
+// With message and payload
+throw serviceUnavailable('Service is down', { retryAfter: 60 })
+```
+
+### Express middleware
+
+`expressMiddleware` is a ready-made Express error-handling middleware. It catches thrown `ErrorBaseModel` instances and responds with the appropriate HTTP status code and a JSON body. Unknown errors fall back to 500.
+
+```ts
+import express from 'express'
+import { expressMiddleware, errorFactory } from '@beecode/msh-error'
+
+const app = express()
+
+// ... your routes ...
+
+// Register as the last middleware (4 arguments = error handler)
+app.use(expressMiddleware)
+
+// Example: a route that throws
+app.get('/protected', (_req, _res) => {
+	throw errorFactory().client.unauthorized()
+	// Responds with: { "code": 401, "message": "UNAUTHORIZED: 401 - UNAUTHORIZED", "status": "error" }
+})
+```
+
+### ErrorBaseModel
+
+`ErrorBaseModel` is the base error class that all errors from this package extend. It extends the native `Error` and adds `httpCode` and `payload` properties. You can use `instanceof` to identify these errors in catch blocks.
+
+```ts
+import { ErrorBaseModel } from '@beecode/msh-error'
+
+try {
+	// some code that throws
+} catch (err) {
+	if (err instanceof ErrorBaseModel) {
+		console.log(err.httpCode) // e.g. 403
+		console.log(err.payload)  // e.g. { some: 'data' }
+	}
+}
+```
+
+You can also construct one directly:
+
+```ts
+import { ErrorBaseModel, HttpResponseCodeMapper } from '@beecode/msh-error'
+
+const error = new ErrorBaseModel({
+	httpCode: HttpResponseCodeMapper.BAD_REQUEST,
+	message: 'Invalid input',
+	payload: { field: 'email', reason: 'required' },
+})
+```
+
+### HttpResponseCodeMapper
+
+`HttpResponseCodeMapper` is an enum containing all standard HTTP response status codes (1xx–5xx). Use it with `errorHOF` or when constructing `ErrorBaseModel` directly.
+
+```ts
+import { HttpResponseCodeMapper } from '@beecode/msh-error'
+
+// Available codes include:
+// HttpResponseCodeMapper.BAD_REQUEST           // 400
+// HttpResponseCodeMapper.UNAUTHORIZED          // 401
+// HttpResponseCodeMapper.FORBIDDEN             // 403
+// HttpResponseCodeMapper.NOT_FOUND             // 404
+// HttpResponseCodeMapper.INTERNAL_SERVER_ERROR // 500
+// ... and many more (see source for full list)
 ```
 
 ## Migration
