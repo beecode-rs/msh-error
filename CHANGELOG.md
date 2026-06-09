@@ -1,3 +1,14 @@
+# [2.0.0](https://github.com/beecode-rs/msh-error/compare/v1.0.12...v2.0.0) (2026-06-09)
+
+
+* refactor!: restructure into clean architecture and modernize toolchain ([#69](https://github.com/beecode-rs/msh-error/issues/69)) ([1191b2b](https://github.com/beecode-rs/msh-error/commit/1191b2bfad35f7f4cc5ef78fbb48e4c9efbebf2b))
+
+
+### BREAKING CHANGES
+
+* Sub-path imports have changed. CJS output removed.
+See MIGRATION.md for full details.
+
 ## [1.0.12](https://github.com/beecode-rs/msh-error/compare/v1.0.11...v1.0.12) (2026-02-16)
 
 
