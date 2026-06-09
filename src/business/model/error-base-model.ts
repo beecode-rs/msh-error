@@ -1,0 +1,23 @@
+import { type HttpResponseCodeMapper } from '#src/business/model/http-response-code-mapper.js'
+import { httpResponseCodeUtil } from '#src/util/http-response-code-util.js'
+
+export type ErrorPayload = Record<string, unknown>
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export class ErrorBaseModel<T extends ErrorPayload = any> extends Error {
+	httpCode: number
+	payload?: T
+
+	constructor(params: { httpCode: HttpResponseCodeMapper; name?: string; message?: string; payload?: T }) {
+		const {
+			httpCode,
+			name = httpResponseCodeUtil.codeNameFromEnum(httpCode),
+			message = `${String(httpCode)} - ${name}`,
+			payload,
+		} = params
+		super(message)
+		this.httpCode = httpCode
+		this.name = name
+		this.payload = payload
+	}
+}
