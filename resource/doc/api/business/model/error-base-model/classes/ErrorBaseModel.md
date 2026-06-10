@@ -6,7 +6,7 @@
 
 # Class: ErrorBaseModel\<T\>
 
-Defined in: [packages/error/src/business/model/error-base-model.ts:7](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L7)
+Defined in: [packages/error/src/business/model/error-base-model.ts:7](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L7)
 
 ## Extends
 
@@ -24,7 +24,7 @@ Defined in: [packages/error/src/business/model/error-base-model.ts:7](https://gi
 
 > **new ErrorBaseModel**\<`T`\>(`params`): `ErrorBaseModel`\<`T`\>
 
-Defined in: [packages/error/src/business/model/error-base-model.ts:11](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L11)
+Defined in: [packages/error/src/business/model/error-base-model.ts:11](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L11)
 
 #### Parameters
 
@@ -72,7 +72,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:24
 
 > **httpCode**: `number`
 
-Defined in: [packages/error/src/business/model/error-base-model.ts:8](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L8)
+Defined in: [packages/error/src/business/model/error-base-model.ts:8](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L8)
 
 ***
 
@@ -104,7 +104,7 @@ Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1074
 
 > `optional` **payload?**: `T`
 
-Defined in: [packages/error/src/business/model/error-base-model.ts:9](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L9)
+Defined in: [packages/error/src/business/model/error-base-model.ts:9](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L9)
 
 ***
 

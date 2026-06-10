@@ -8,4 +8,4 @@
 
 > **ErrorPayload** = `Record`\<`string`, `unknown`\>
 
-Defined in: [packages/error/src/business/model/error-base-model.ts:4](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L4)
+Defined in: [packages/error/src/business/model/error-base-model.ts:4](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L4)

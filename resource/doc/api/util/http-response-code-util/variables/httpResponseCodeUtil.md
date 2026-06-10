@@ -8,7 +8,7 @@
 
 > `const` **httpResponseCodeUtil**: `object`
 
-Defined in: [packages/error/src/util/http-response-code-util.ts:3](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/util/http-response-code-util.ts#L3)
+Defined in: [packages/error/src/util/http-response-code-util.ts:3](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/util/http-response-code-util.ts#L3)
 
 ## Type Declaration
 

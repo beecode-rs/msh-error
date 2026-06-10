@@ -31,7 +31,7 @@
 									"fileName": "packages/error/src/business/model/error-base-model.ts",
 									"line": 11,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L11"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L11"
 								}
 							],
 							"signatures": [
@@ -46,7 +46,7 @@
 											"fileName": "packages/error/src/business/model/error-base-model.ts",
 											"line": 11,
 											"character": 1,
-											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L11"
+											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L11"
 										}
 									],
 									"typeParameters": [
@@ -95,7 +95,7 @@
 																	"fileName": "packages/error/src/business/model/error-base-model.ts",
 																	"line": 11,
 																	"character": 23,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L11"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L11"
 																}
 															],
 															"type": {
@@ -118,7 +118,7 @@
 																	"fileName": "packages/error/src/business/model/error-base-model.ts",
 																	"line": 11,
 																	"character": 72,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L11"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L11"
 																}
 															],
 															"type": {
@@ -139,7 +139,7 @@
 																	"fileName": "packages/error/src/business/model/error-base-model.ts",
 																	"line": 11,
 																	"character": 57,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L11"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L11"
 																}
 															],
 															"type": {
@@ -160,7 +160,7 @@
 																	"fileName": "packages/error/src/business/model/error-base-model.ts",
 																	"line": 11,
 																	"character": 90,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L11"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L11"
 																}
 															],
 															"type": {
@@ -257,7 +257,7 @@
 									"fileName": "packages/error/src/business/model/error-base-model.ts",
 									"line": 8,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L8"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L8"
 								}
 							],
 							"type": {
@@ -330,7 +330,7 @@
 									"fileName": "packages/error/src/business/model/error-base-model.ts",
 									"line": 9,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L9"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L9"
 								}
 							],
 							"type": {
@@ -834,7 +834,7 @@
 							"fileName": "packages/error/src/business/model/error-base-model.ts",
 							"line": 7,
 							"character": 13,
-							"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L7"
+							"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L7"
 						}
 					],
 					"typeParameters": [
@@ -880,7 +880,7 @@
 							"fileName": "packages/error/src/business/model/error-base-model.ts",
 							"line": 4,
 							"character": 12,
-							"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L4"
+							"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L4"
 						}
 					],
 					"type": {
@@ -924,7 +924,7 @@
 					"fileName": "packages/error/src/business/model/error-base-model.ts",
 					"line": 1,
 					"character": 0,
-					"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/error-base-model.ts#L1"
+					"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/error-base-model.ts#L1"
 				}
 			]
 		},
@@ -953,7 +953,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 14,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L14"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L14"
 								}
 							],
 							"type": {
@@ -972,7 +972,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 20,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L20"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L20"
 								}
 							],
 							"type": {
@@ -991,7 +991,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 70,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L70"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L70"
 								}
 							],
 							"type": {
@@ -1018,7 +1018,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 36,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L36"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L36"
 								}
 							],
 							"type": {
@@ -1037,7 +1037,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 64,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L64"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L64"
 								}
 							],
 							"type": {
@@ -1056,7 +1056,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 45,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L45"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L45"
 								}
 							],
 							"type": {
@@ -1075,7 +1075,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 62,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L62"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L62"
 								}
 							],
 							"type": {
@@ -1102,7 +1102,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 6,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L6"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L6"
 								}
 							],
 							"type": {
@@ -1121,7 +1121,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 13,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L13"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L13"
 								}
 							],
 							"type": {
@@ -1140,7 +1140,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 53,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L53"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L53"
 								}
 							],
 							"type": {
@@ -1159,7 +1159,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 57,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L57"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L57"
 								}
 							],
 							"type": {
@@ -1178,7 +1178,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 39,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L39"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L39"
 								}
 							],
 							"type": {
@@ -1197,7 +1197,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 27,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L27"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L27"
 								}
 							],
 							"type": {
@@ -1216,7 +1216,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 72,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L72"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L72"
 								}
 							],
 							"type": {
@@ -1235,7 +1235,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 46,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L46"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L46"
 								}
 							],
 							"type": {
@@ -1254,7 +1254,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 73,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L73"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L73"
 								}
 							],
 							"type": {
@@ -1273,7 +1273,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 21,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L21"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L21"
 								}
 							],
 							"type": {
@@ -1292,7 +1292,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 75,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L75"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L75"
 								}
 							],
 							"type": {
@@ -1319,7 +1319,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 68,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L68"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L68"
 								}
 							],
 							"type": {
@@ -1338,7 +1338,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 47,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L47"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L47"
 								}
 							],
 							"type": {
@@ -1357,7 +1357,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 56,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L56"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L56"
 								}
 							],
 							"type": {
@@ -1376,7 +1376,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 76,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L76"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L76"
 								}
 							],
 							"type": {
@@ -1395,7 +1395,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 41,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L41"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L41"
 								}
 							],
 							"type": {
@@ -1414,7 +1414,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 54,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L54"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L54"
 								}
 							],
 							"type": {
@@ -1433,7 +1433,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 26,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L26"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L26"
 								}
 							],
 							"type": {
@@ -1452,7 +1452,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 19,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L19"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L19"
 								}
 							],
 							"type": {
@@ -1479,7 +1479,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 25,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L25"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L25"
 								}
 							],
 							"type": {
@@ -1498,7 +1498,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 78,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L78"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L78"
 								}
 							],
 							"type": {
@@ -1517,7 +1517,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 79,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L79"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L79"
 								}
 							],
 							"type": {
@@ -1536,7 +1536,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 16,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L16"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L16"
 								}
 							],
 							"type": {
@@ -1555,7 +1555,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 15,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L15"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L15"
 								}
 							],
 							"type": {
@@ -1574,7 +1574,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 42,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L42"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L42"
 								}
 							],
 							"type": {
@@ -1593,7 +1593,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 77,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L77"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L77"
 								}
 							],
 							"type": {
@@ -1612,7 +1612,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 40,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L40"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L40"
 								}
 							],
 							"type": {
@@ -1631,7 +1631,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 69,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L69"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L69"
 								}
 							],
 							"type": {
@@ -1650,7 +1650,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 29,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L29"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L29"
 								}
 							],
 							"type": {
@@ -1677,7 +1677,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 12,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L12"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L12"
 								}
 							],
 							"type": {
@@ -1696,7 +1696,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 18,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L18"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L18"
 								}
 							],
 							"type": {
@@ -1715,7 +1715,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 49,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L49"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L49"
 								}
 							],
 							"type": {
@@ -1734,7 +1734,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 38,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L38"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L38"
 								}
 							],
 							"type": {
@@ -1753,7 +1753,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 32,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L32"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L32"
 								}
 							],
 							"type": {
@@ -1772,7 +1772,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 48,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L48"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L48"
 								}
 							],
 							"type": {
@@ -1791,7 +1791,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 59,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L59"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L59"
 								}
 							],
 							"type": {
@@ -1810,7 +1810,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 8,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L8"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L8"
 								}
 							],
 							"type": {
@@ -1829,7 +1829,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 43,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L43"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L43"
 								}
 							],
 							"type": {
@@ -1848,7 +1848,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 50,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L50"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L50"
 								}
 							],
 							"type": {
@@ -1867,7 +1867,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 61,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L61"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L61"
 								}
 							],
 							"type": {
@@ -1886,7 +1886,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 44,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L44"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L44"
 								}
 							],
 							"type": {
@@ -1905,7 +1905,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 52,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L52"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L52"
 								}
 							],
 							"type": {
@@ -1924,7 +1924,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 17,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L17"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L17"
 								}
 							],
 							"type": {
@@ -1943,7 +1943,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 28,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L28"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L28"
 								}
 							],
 							"type": {
@@ -1962,7 +1962,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 71,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L71"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L71"
 								}
 							],
 							"type": {
@@ -1981,7 +1981,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 7,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L7"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L7"
 								}
 							],
 							"type": {
@@ -2000,7 +2000,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 31,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L31"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L31"
 								}
 							],
 							"type": {
@@ -2019,7 +2019,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 60,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L60"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L60"
 								}
 							],
 							"type": {
@@ -2038,7 +2038,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 37,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L37"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L37"
 								}
 							],
 							"type": {
@@ -2057,7 +2057,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 63,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L63"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L63"
 								}
 							],
 							"type": {
@@ -2076,7 +2076,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 55,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L55"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L55"
 								}
 							],
 							"type": {
@@ -2095,7 +2095,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 51,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L51"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L51"
 								}
 							],
 							"type": {
@@ -2114,7 +2114,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 58,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L58"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L58"
 								}
 							],
 							"type": {
@@ -2133,7 +2133,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 30,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L30"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L30"
 								}
 							],
 							"type": {
@@ -2152,7 +2152,7 @@
 									"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 									"line": 74,
 									"character": 1,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L74"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L74"
 								}
 							],
 							"type": {
@@ -2235,7 +2235,7 @@
 							"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 							"line": 2,
 							"character": 12,
-							"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L2"
+							"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L2"
 						}
 					]
 				}
@@ -2253,7 +2253,7 @@
 					"fileName": "packages/error/src/business/model/http-response-code-mapper.ts",
 					"line": 1,
 					"character": 0,
-					"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L1"
+					"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L1"
 				}
 			]
 		},
@@ -2275,7 +2275,7 @@
 							"fileName": "packages/error/src/business/service/error-factory.ts",
 							"line": 6,
 							"character": 13,
-							"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L6"
+							"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L6"
 						}
 					],
 					"signatures": [
@@ -2290,7 +2290,7 @@
 									"fileName": "packages/error/src/business/service/error-factory.ts",
 									"line": 6,
 									"character": 28,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L6"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L6"
 								}
 							],
 							"type": {
@@ -2313,7 +2313,7 @@
 													"fileName": "packages/error/src/business/service/error-factory.ts",
 													"line": 7,
 													"character": 1,
-													"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L7"
+													"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L7"
 												}
 											],
 											"type": {
@@ -2336,7 +2336,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 8,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L8"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L8"
 																}
 															],
 															"type": {
@@ -2467,7 +2467,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -2488,7 +2488,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -2509,7 +2509,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -2558,7 +2558,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 36,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L36"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L36"
 																}
 															],
 															"type": {
@@ -2689,7 +2689,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -2710,7 +2710,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -2731,7 +2731,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -2780,7 +2780,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 17,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L17"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L17"
 																}
 															],
 															"type": {
@@ -2911,7 +2911,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -2932,7 +2932,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -2953,7 +2953,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -3002,7 +3002,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 34,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L34"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L34"
 																}
 															],
 															"type": {
@@ -3133,7 +3133,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -3154,7 +3154,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -3175,7 +3175,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -3224,7 +3224,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 25,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L25"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L25"
 																}
 															],
 															"type": {
@@ -3355,7 +3355,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -3376,7 +3376,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -3397,7 +3397,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -3446,7 +3446,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 29,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L29"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L29"
 																}
 															],
 															"type": {
@@ -3577,7 +3577,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -3598,7 +3598,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -3619,7 +3619,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -3668,7 +3668,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 11,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L11"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L11"
 																}
 															],
 															"type": {
@@ -3799,7 +3799,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -3820,7 +3820,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -3841,7 +3841,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -3890,7 +3890,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 18,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L18"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L18"
 																}
 															],
 															"type": {
@@ -4021,7 +4021,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -4042,7 +4042,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -4063,7 +4063,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -4112,7 +4112,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 19,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L19"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L19"
 																}
 															],
 															"type": {
@@ -4243,7 +4243,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -4264,7 +4264,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -4285,7 +4285,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -4334,7 +4334,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 28,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L28"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L28"
 																}
 															],
 															"type": {
@@ -4465,7 +4465,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -4486,7 +4486,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -4507,7 +4507,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -4556,7 +4556,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 13,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L13"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L13"
 																}
 															],
 															"type": {
@@ -4687,7 +4687,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -4708,7 +4708,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -4729,7 +4729,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -4778,7 +4778,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 26,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L26"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L26"
 																}
 															],
 															"type": {
@@ -4909,7 +4909,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -4930,7 +4930,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -4951,7 +4951,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -5000,7 +5000,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 14,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L14"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L14"
 																}
 															],
 															"type": {
@@ -5131,7 +5131,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -5152,7 +5152,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -5173,7 +5173,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -5222,7 +5222,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 12,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L12"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L12"
 																}
 															],
 															"type": {
@@ -5353,7 +5353,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -5374,7 +5374,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -5395,7 +5395,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -5444,7 +5444,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 21,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L21"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L21"
 																}
 															],
 															"type": {
@@ -5575,7 +5575,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -5596,7 +5596,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -5617,7 +5617,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -5666,7 +5666,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 10,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L10"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L10"
 																}
 															],
 															"type": {
@@ -5797,7 +5797,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -5818,7 +5818,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -5839,7 +5839,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -5888,7 +5888,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 20,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L20"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L20"
 																}
 															],
 															"type": {
@@ -6019,7 +6019,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -6040,7 +6040,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -6061,7 +6061,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -6110,7 +6110,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 31,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L31"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L31"
 																}
 															],
 															"type": {
@@ -6241,7 +6241,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -6262,7 +6262,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -6283,7 +6283,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -6332,7 +6332,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 15,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L15"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L15"
 																}
 															],
 															"type": {
@@ -6463,7 +6463,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -6484,7 +6484,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -6505,7 +6505,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -6554,7 +6554,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 24,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L24"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L24"
 																}
 															],
 															"type": {
@@ -6685,7 +6685,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -6706,7 +6706,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -6727,7 +6727,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -6776,7 +6776,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 33,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L33"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L33"
 																}
 															],
 															"type": {
@@ -6907,7 +6907,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -6928,7 +6928,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -6949,7 +6949,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -6998,7 +6998,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 16,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L16"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L16"
 																}
 															],
 															"type": {
@@ -7129,7 +7129,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -7150,7 +7150,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -7171,7 +7171,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -7220,7 +7220,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 22,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L22"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L22"
 																}
 															],
 															"type": {
@@ -7351,7 +7351,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -7372,7 +7372,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -7393,7 +7393,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -7442,7 +7442,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 32,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L32"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L32"
 																}
 															],
 															"type": {
@@ -7573,7 +7573,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -7594,7 +7594,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -7615,7 +7615,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -7664,7 +7664,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 9,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L9"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L9"
 																}
 															],
 															"type": {
@@ -7795,7 +7795,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -7816,7 +7816,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -7837,7 +7837,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -7886,7 +7886,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 35,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L35"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L35"
 																}
 															],
 															"type": {
@@ -8017,7 +8017,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -8038,7 +8038,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -8059,7 +8059,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -8108,7 +8108,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 27,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L27"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L27"
 																}
 															],
 															"type": {
@@ -8239,7 +8239,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -8260,7 +8260,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -8281,7 +8281,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -8330,7 +8330,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 23,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L23"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L23"
 																}
 															],
 															"type": {
@@ -8461,7 +8461,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -8482,7 +8482,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -8503,7 +8503,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -8552,7 +8552,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 30,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L30"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L30"
 																}
 															],
 															"type": {
@@ -8683,7 +8683,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -8704,7 +8704,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -8725,7 +8725,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -8815,7 +8815,7 @@
 													"fileName": "packages/error/src/business/service/error-factory.ts",
 													"line": 38,
 													"character": 1,
-													"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L38"
+													"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L38"
 												}
 											],
 											"type": {
@@ -8838,7 +8838,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 41,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L41"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L41"
 																}
 															],
 															"type": {
@@ -8969,7 +8969,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -8990,7 +8990,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -9011,7 +9011,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -9060,7 +9060,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 43,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L43"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L43"
 																}
 															],
 															"type": {
@@ -9191,7 +9191,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -9212,7 +9212,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -9233,7 +9233,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -9282,7 +9282,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 44,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L44"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L44"
 																}
 															],
 															"type": {
@@ -9413,7 +9413,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -9434,7 +9434,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -9455,7 +9455,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -9504,7 +9504,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 46,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L46"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L46"
 																}
 															],
 															"type": {
@@ -9635,7 +9635,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -9656,7 +9656,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -9677,7 +9677,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -9726,7 +9726,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 39,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L39"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L39"
 																}
 															],
 															"type": {
@@ -9857,7 +9857,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -9878,7 +9878,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -9899,7 +9899,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -9948,7 +9948,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 47,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L47"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L47"
 																}
 															],
 															"type": {
@@ -10079,7 +10079,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -10100,7 +10100,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -10121,7 +10121,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -10170,7 +10170,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 49,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L49"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L49"
 																}
 															],
 															"type": {
@@ -10301,7 +10301,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -10322,7 +10322,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -10343,7 +10343,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -10392,7 +10392,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 50,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L50"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L50"
 																}
 															],
 															"type": {
@@ -10523,7 +10523,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -10544,7 +10544,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -10565,7 +10565,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -10614,7 +10614,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 48,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L48"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L48"
 																}
 															],
 															"type": {
@@ -10745,7 +10745,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -10766,7 +10766,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -10787,7 +10787,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -10836,7 +10836,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 40,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L40"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L40"
 																}
 															],
 															"type": {
@@ -10967,7 +10967,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -10988,7 +10988,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -11009,7 +11009,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -11058,7 +11058,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 42,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L42"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L42"
 																}
 															],
 															"type": {
@@ -11189,7 +11189,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -11210,7 +11210,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -11231,7 +11231,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -11280,7 +11280,7 @@
 																	"fileName": "packages/error/src/business/service/error-factory.ts",
 																	"line": 45,
 																	"character": 2,
-																	"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L45"
+																	"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L45"
 																}
 															],
 															"type": {
@@ -11411,7 +11411,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 11,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																										}
 																									],
 																									"type": {
@@ -11432,7 +11432,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 10,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																										}
 																									],
 																									"type": {
@@ -11453,7 +11453,7 @@
 																											"fileName": "packages/error/src/business/service/error-hof.ts",
 																											"line": 12,
 																											"character": 2,
-																											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																										}
 																									],
 																									"type": {
@@ -11544,7 +11544,7 @@
 					"fileName": "packages/error/src/business/service/error-factory.ts",
 					"line": 1,
 					"character": 0,
-					"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L1"
+					"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L1"
 				}
 			]
 		},
@@ -11566,7 +11566,7 @@
 							"fileName": "packages/error/src/business/service/error-hof.ts",
 							"line": 5,
 							"character": 13,
-							"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L5"
+							"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L5"
 						}
 					],
 					"signatures": [
@@ -11581,7 +11581,7 @@
 									"fileName": "packages/error/src/business/service/error-hof.ts",
 									"line": 5,
 									"character": 24,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L5"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L5"
 								}
 							],
 							"parameters": [
@@ -11727,7 +11727,7 @@
 																			"fileName": "packages/error/src/business/service/error-hof.ts",
 																			"line": 11,
 																			"character": 2,
-																			"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L11"
+																			"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L11"
 																		}
 																	],
 																	"type": {
@@ -11748,7 +11748,7 @@
 																			"fileName": "packages/error/src/business/service/error-hof.ts",
 																			"line": 10,
 																			"character": 2,
-																			"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L10"
+																			"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L10"
 																		}
 																	],
 																	"type": {
@@ -11769,7 +11769,7 @@
 																			"fileName": "packages/error/src/business/service/error-hof.ts",
 																			"line": 12,
 																			"character": 2,
-																			"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L12"
+																			"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L12"
 																		}
 																	],
 																	"type": {
@@ -11822,7 +11822,7 @@
 					"fileName": "packages/error/src/business/service/error-hof.ts",
 					"line": 1,
 					"character": 0,
-					"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-hof.ts#L1"
+					"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-hof.ts#L1"
 				}
 			]
 		},
@@ -11844,7 +11844,7 @@
 							"fileName": "packages/error/src/business/service/express-middleware.ts",
 							"line": 5,
 							"character": 13,
-							"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/express-middleware.ts#L5"
+							"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/express-middleware.ts#L5"
 						}
 					],
 					"signatures": [
@@ -11859,7 +11859,7 @@
 									"fileName": "packages/error/src/business/service/express-middleware.ts",
 									"line": 5,
 									"character": 33,
-									"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/express-middleware.ts#L5"
+									"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/express-middleware.ts#L5"
 								}
 							],
 							"parameters": [
@@ -11950,7 +11950,7 @@
 					"fileName": "packages/error/src/business/service/express-middleware.ts",
 					"line": 1,
 					"character": 0,
-					"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/express-middleware.ts#L1"
+					"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/express-middleware.ts#L1"
 				}
 			]
 		},
@@ -11972,7 +11972,7 @@
 							"fileName": "packages/error/src/index.ts",
 							"line": 3,
 							"character": 9,
-							"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/index.ts#L3"
+							"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/index.ts#L3"
 						}
 					],
 					"target": 111
@@ -11988,7 +11988,7 @@
 							"fileName": "packages/error/src/index.ts",
 							"line": 1,
 							"character": 9,
-							"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/index.ts#L1"
+							"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/index.ts#L1"
 						}
 					],
 					"target": 652
@@ -12008,7 +12008,7 @@
 					"fileName": "packages/error/src/index.ts",
 					"line": 1,
 					"character": 0,
-					"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/index.ts#L1"
+					"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/index.ts#L1"
 				}
 			]
 		},
@@ -12040,7 +12040,7 @@
 							"fileName": "packages/error/src/types/global.d.ts",
 							"line": 8,
 							"character": 7,
-							"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/types/global.d.ts#L8"
+							"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/types/global.d.ts#L8"
 						}
 					],
 					"type": {
@@ -12150,7 +12150,7 @@
 					"fileName": "packages/error/src/types/global.d.ts",
 					"line": 1,
 					"character": 0,
-					"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/types/global.d.ts#L1"
+					"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/types/global.d.ts#L1"
 				}
 			]
 		},
@@ -12174,7 +12174,7 @@
 							"fileName": "packages/error/src/util/http-response-code-util.ts",
 							"line": 3,
 							"character": 13,
-							"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/util/http-response-code-util.ts#L3"
+							"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/util/http-response-code-util.ts#L3"
 						}
 					],
 					"type": {
@@ -12197,7 +12197,7 @@
 											"fileName": "packages/error/src/util/http-response-code-util.ts",
 											"line": 4,
 											"character": 1,
-											"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/util/http-response-code-util.ts#L4"
+											"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/util/http-response-code-util.ts#L4"
 										}
 									],
 									"type": {
@@ -12267,7 +12267,7 @@
 					"fileName": "packages/error/src/util/http-response-code-util.ts",
 					"line": 1,
 					"character": 0,
-					"url": "https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/util/http-response-code-util.ts#L1"
+					"url": "https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/util/http-response-code-util.ts#L1"
 				}
 			]
 		}

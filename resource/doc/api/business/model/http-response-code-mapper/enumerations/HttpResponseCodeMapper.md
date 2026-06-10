@@ -6,7 +6,7 @@
 
 # Enumeration: HttpResponseCodeMapper
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:2](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L2)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:2](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L2)
 
 ## Enumeration Members
 
@@ -14,7 +14,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:2](h
 
 > **ACCEPTED**: `202`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:14](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L14)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:14](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L14)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:14](
 
 > **ALREADY\_REPORTED**: `208`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:20](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L20)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:20](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L20)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:20](
 
 > **BAD\_GATEWAY**: `502`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:70](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L70)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:70](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L70)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:70](
 
 > **BAD\_REQUEST**: `400`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:36](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L36)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:36](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L36)
 
 ******************
 4×× Client Error
@@ -50,7 +50,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:36](
 
 > **CLIENT\_CLOSED\_REQUEST**: `499`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:64](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L64)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:64](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L64)
 
 ***
 
@@ -58,7 +58,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:64](
 
 > **CONFLICT**: `409`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:45](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L45)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:45](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L45)
 
 ***
 
@@ -66,7 +66,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:45](
 
 > **CONNECTION\_CLOSED\_WITHOUT\_RESPONSE**: `444`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:62](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L62)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:62](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L62)
 
 ***
 
@@ -74,7 +74,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:62](
 
 > **CONTINUE**: `100`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:6](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L6)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:6](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L6)
 
 ******************
 1×× Informational
@@ -86,7 +86,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:6](h
 
 > **CREATED**: `201`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:13](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L13)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:13](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L13)
 
 ***
 
@@ -94,7 +94,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:13](
 
 > **EXPECTATION\_FAILED**: `417`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:53](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L53)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:53](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L53)
 
 ***
 
@@ -102,7 +102,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:53](
 
 > **FAILED\_DEPENDENCY**: `424`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:57](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L57)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:57](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L57)
 
 ***
 
@@ -110,7 +110,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:57](
 
 > **FORBIDDEN**: `403`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:39](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L39)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:39](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L39)
 
 ***
 
@@ -118,7 +118,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:39](
 
 > **FOUND**: `302`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:27](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L27)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:27](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L27)
 
 ***
 
@@ -126,7 +126,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:27](
 
 > **GATEWAY\_TIMEOUT**: `504`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:72](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L72)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:72](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L72)
 
 ***
 
@@ -134,7 +134,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:72](
 
 > **GONE**: `410`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:46](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L46)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:46](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L46)
 
 ***
 
@@ -142,7 +142,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:46](
 
 > **HTTP\_VERSION\_NOT\_SUPPORTED**: `505`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:73](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L73)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:73](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L73)
 
 ***
 
@@ -150,7 +150,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:73](
 
 > **IM\_USED**: `226`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:21](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L21)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:21](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L21)
 
 ***
 
@@ -158,7 +158,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:21](
 
 > **INSUFFICIENT\_STORAGE**: `507`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:75](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L75)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:75](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L75)
 
 ***
 
@@ -166,7 +166,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:75](
 
 > **INTERNAL\_SERVER\_ERROR**: `500`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:68](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L68)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:68](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L68)
 
 ******************
 5×× Server Error
@@ -178,7 +178,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:68](
 
 > **LENGTH\_REQUIRED**: `411`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:47](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L47)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:47](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L47)
 
 ***
 
@@ -186,7 +186,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:47](
 
 > **LOCKED**: `423`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:56](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L56)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:56](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L56)
 
 ***
 
@@ -194,7 +194,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:56](
 
 > **LOOP\_DETECTED**: `508`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:76](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L76)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:76](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L76)
 
 ***
 
@@ -202,7 +202,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:76](
 
 > **METHOD\_NOT\_ALLOWED**: `405`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:41](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L41)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:41](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L41)
 
 ***
 
@@ -210,7 +210,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:41](
 
 > **MISDIRECTED\_REQUEST**: `421`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:54](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L54)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:54](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L54)
 
 ***
 
@@ -218,7 +218,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:54](
 
 > **MOVED\_PERMANENTLY**: `301`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:26](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L26)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:26](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L26)
 
 ***
 
@@ -226,7 +226,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:26](
 
 > **MULTI\_\_STATUS**: `207`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:19](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L19)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:19](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L19)
 
 ***
 
@@ -234,7 +234,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:19](
 
 > **MULTIPLE\_CHOICES**: `300`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:25](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L25)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:25](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L25)
 
 ******************
 3×× Redirection
@@ -246,7 +246,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:25](
 
 > **NETWORK\_AUTHENTICATION\_REQUIRED**: `511`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:78](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L78)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:78](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L78)
 
 ***
 
@@ -254,7 +254,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:78](
 
 > **NETWORK\_CONNECT\_TIMEOUT\_ERROR**: `599`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:79](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L79)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:79](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L79)
 
 ***
 
@@ -262,7 +262,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:79](
 
 > **NO\_CONTENT**: `204`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:16](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L16)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:16](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L16)
 
 ***
 
@@ -270,7 +270,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:16](
 
 > **NON\_\_AUTHORITATIVE\_INFORMATION**: `203`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:15](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L15)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:15](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L15)
 
 ***
 
@@ -278,7 +278,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:15](
 
 > **NOT\_ACCEPTABLE**: `406`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:42](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L42)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:42](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L42)
 
 ***
 
@@ -286,7 +286,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:42](
 
 > **NOT\_EXTENDED**: `510`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:77](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L77)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:77](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L77)
 
 ***
 
@@ -294,7 +294,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:77](
 
 > **NOT\_FOUND**: `404`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:40](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L40)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:40](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L40)
 
 ***
 
@@ -302,7 +302,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:40](
 
 > **NOT\_IMPLEMENTED**: `501`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:69](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L69)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:69](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L69)
 
 ***
 
@@ -310,7 +310,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:69](
 
 > **NOT\_MODIFIED**: `304`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:29](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L29)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:29](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L29)
 
 ***
 
@@ -318,7 +318,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:29](
 
 > **OK**: `200`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:12](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L12)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:12](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L12)
 
 ******************
 2×× Success
@@ -330,7 +330,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:12](
 
 > **PARTIAL\_CONTENT**: `206`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:18](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L18)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:18](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L18)
 
 ***
 
@@ -338,7 +338,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:18](
 
 > **PAYLOAD\_TOO\_LARGE**: `413`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:49](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L49)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:49](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L49)
 
 ***
 
@@ -346,7 +346,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:49](
 
 > **PAYMENT\_REQUIRED**: `402`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:38](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L38)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:38](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L38)
 
 ***
 
@@ -354,7 +354,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:38](
 
 > **PERMANENT\_REDIRECT**: `308`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:32](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L32)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:32](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L32)
 
 ***
 
@@ -362,7 +362,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:32](
 
 > **PRECONDITION\_FAILED**: `412`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:48](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L48)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:48](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L48)
 
 ***
 
@@ -370,7 +370,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:48](
 
 > **PRECONDITION\_REQUIRED**: `428`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:59](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L59)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:59](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L59)
 
 ***
 
@@ -378,7 +378,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:59](
 
 > **PROCESSING**: `102`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:8](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L8)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:8](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L8)
 
 ***
 
@@ -386,7 +386,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:8](h
 
 > **PROXY\_AUTHENTICATION\_REQUIRED**: `407`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:43](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L43)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:43](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L43)
 
 ***
 
@@ -394,7 +394,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:43](
 
 > **REQUEST\_\_URI\_TOO\_LONG**: `414`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:50](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L50)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:50](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L50)
 
 ***
 
@@ -402,7 +402,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:50](
 
 > **REQUEST\_HEADER\_FIELDS\_TOO\_LARGE**: `431`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:61](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L61)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:61](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L61)
 
 ***
 
@@ -410,7 +410,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:61](
 
 > **REQUEST\_TIMEOUT**: `408`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:44](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L44)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:44](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L44)
 
 ***
 
@@ -418,7 +418,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:44](
 
 > **REQUESTED\_RANGE\_NOT\_SATISFIABLE**: `416`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:52](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L52)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:52](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L52)
 
 ***
 
@@ -426,7 +426,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:52](
 
 > **RESET\_\_CONTENT**: `205`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:17](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L17)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:17](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L17)
 
 ***
 
@@ -434,7 +434,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:17](
 
 > **SEE\_OTHER**: `303`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:28](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L28)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:28](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L28)
 
 ***
 
@@ -442,7 +442,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:28](
 
 > **SERVICE\_UNAVAILABLE**: `503`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:71](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L71)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:71](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L71)
 
 ***
 
@@ -450,7 +450,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:71](
 
 > **SWITCHING\_PROTOCOLS**: `101`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:7](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L7)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:7](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L7)
 
 ***
 
@@ -458,7 +458,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:7](h
 
 > **TEMPORARY\_REDIRECT**: `307`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:31](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L31)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:31](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L31)
 
 ***
 
@@ -466,7 +466,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:31](
 
 > **TOO\_MANY\_REQUESTS**: `429`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:60](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L60)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:60](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L60)
 
 ***
 
@@ -474,7 +474,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:60](
 
 > **UNAUTHORIZED**: `401`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:37](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L37)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:37](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L37)
 
 ***
 
@@ -482,7 +482,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:37](
 
 > **UNAVAILABLE\_FOR\_LEGAL\_REASONS**: `451`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:63](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L63)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:63](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L63)
 
 ***
 
@@ -490,7 +490,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:63](
 
 > **UNPROCESSABLE\_ENTITY**: `422`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:55](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L55)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:55](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L55)
 
 ***
 
@@ -498,7 +498,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:55](
 
 > **UNSUPPORTED\_MEDIA\_TYPE**: `415`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:51](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L51)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:51](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L51)
 
 ***
 
@@ -506,7 +506,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:51](
 
 > **UPGRADE\_REQUIRED**: `426`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:58](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L58)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:58](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L58)
 
 ***
 
@@ -514,7 +514,7 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:58](
 
 > **USE\_PROXY**: `305`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:30](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L30)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:30](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L30)
 
 ***
 
@@ -522,4 +522,4 @@ Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:30](
 
 > **VARIANT\_ALSO\_NEGOTIATES**: `506`
 
-Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:74](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/model/http-response-code-mapper.ts#L74)
+Defined in: [packages/error/src/business/model/http-response-code-mapper.ts:74](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/model/http-response-code-mapper.ts#L74)

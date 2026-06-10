@@ -8,7 +8,7 @@
 
 > **errorFactory**(): `object`
 
-Defined in: [packages/error/src/business/service/error-factory.ts:6](https://github.com/beecode-rs/msh-error/blob/b47190c63e8ddc82718e302098af86755bdcfc62/src/business/service/error-factory.ts#L6)
+Defined in: [packages/error/src/business/service/error-factory.ts:6](https://github.com/beecode-rs/msh-error/blob/65369919769158ac071ebde1d40254aa4ce9f25a/src/business/service/error-factory.ts#L6)
 
 ## Returns
 
