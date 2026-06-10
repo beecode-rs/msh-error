@@ -1,7 +1,7 @@
 import { HttpResponseCodeMapper } from '#src/business/model/http-response-code-mapper.js'
 import { errorHOF } from '#src/business/service/error-hof.js'
 
-/* eslint-disable sort-keys-fix/sort-keys-fix */
+/* eslint-disable sort-keys */
 // eslint-disable-next-line @typescript-eslint/explicit-function-return-type
 export const errorFactory = () => ({
 	client: {
@@ -50,4 +50,4 @@ export const errorFactory = () => ({
 		networkConnectTimeoutError: errorHOF(HttpResponseCodeMapper.NETWORK_CONNECT_TIMEOUT_ERROR),
 	},
 })
-/* eslint-enable sort-keys-fix/sort-keys-fix */
+/* eslint-enable sort-keys */
