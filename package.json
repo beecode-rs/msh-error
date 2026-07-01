@@ -92,7 +92,7 @@
 		"express": "^5.2.1"
 	},
 	"devDependencies": {
-		"@beecode/msh-test-contractor": "^1.0.0",
+		"@beecode/msh-test-contractor": "^1.0.1",
 		"@commitlint/cli": "^21.2.0",
 		"@commitlint/config-conventional": "^21.2.0",
 		"@commitlint/prompt": "^21.2.0",
