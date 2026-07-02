@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/beecode-rs/msh-error/compare/v2.0.5...v2.0.6) (2026-07-02)
+
+
+### Bug Fixes
+
+* update test-contractor dep ([3653289](https://github.com/beecode-rs/msh-error/commit/3653289316062a43fe845f1f18eaaca0f41b34ef))
+
 ## [2.0.5](https://github.com/beecode-rs/msh-error/compare/v2.0.4...v2.0.5) (2026-07-01)
 
 
